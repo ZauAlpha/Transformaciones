@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Escalado", "Escalado\Escalado.csproj", "{0D3A11DF-09B8-4BC1-A4A0-BF9EE00A42AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{11E43D09-9AF5-4B1A-8915-BBBFFD8AAD53}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D3A11DF-09B8-4BC1-A4A0-BF9EE00A42AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3A11DF-09B8-4BC1-A4A0-BF9EE00A42AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3A11DF-09B8-4BC1-A4A0-BF9EE00A42AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3A11DF-09B8-4BC1-A4A0-BF9EE00A42AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {290E8783-5213-4C1B-A930-6E1513120986}
+	EndGlobalSection
+EndGlobal
